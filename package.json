@@ -1,0 +1,14 @@
+{
+  "name": "es2015",
+  "version": "1.0.0",
+  "description": "Code samples",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Bielick",
+  "license": "ISC",
+  "dependencies": {
+    "harmony-reflect": "^1.1.3"
+  }
+}
